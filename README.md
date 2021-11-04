@@ -1,2 +1,2 @@
-# libis_dev
- LIBIS website development 
+# libis
+ LIBIS website development and management
