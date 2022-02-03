@@ -1,4 +1,55 @@
-/**
- * @file
- * Subtheme specific CSS.
- */
+/* @file Subtheme specific CSS */
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+
+body {
+    height: 100%;
+    font-family: "Poppins", sans-serif;
+}
+#page {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.layout-main-wrapper {
+    /* Stretch short content for sticky footer */
+    flex: 1 0 auto;
+}
+.site-footer {
+    flex-shrink: 0;
+}
+
+/* Set navbar region to full width */
+#block-navbar,
+#block-header-main {
+    width: 100%;
+}
+
+/* Set max page width */
+@media (max-width: 1399.98px) {
+    .container {
+        max-width: 960px;
+    }
+}
+@media (min-width: 1400px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+
+/* Remove region margins and padding */
+#navbar-main {
+    padding: 0;
+}
+.node__content {
+    margin-top: 0;
+}
+.site-footer,
+.site-footer .container-fluid,
+.site-footer__bottom,
+.site-footer__bottom .region,
+.site-footer__bottom .block,
+.site-footer__bottom .content {
+    padding: 0;
+    margin: 0;
+}
