@@ -1,0 +1,22 @@
+# Compressed files
+*.zip
+*.gz
+*.tar
+*.7z
+
+# Video & audio
+*.mov
+*.mp4
+*.m4v
+*.f4v
+*.f4p
+*.ogv
+*.webm
+*.flv
+*.mp3
+*.m4a
+*.f4a
+*.f4b
+*.oga
+*.ogg
+*.opus
