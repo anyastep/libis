@@ -37,6 +37,16 @@ body {
     }
 }
 
+/* Add an option for full-width container */
+.full-width {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+}
+
 /* Remove region margins and padding */
 #navbar-main {
     padding: 0;
@@ -46,7 +56,6 @@ body {
 }
 .site-footer {
     padding: 0;
-    margin-top: 2rem;
 }
 .site-footer .container-fluid,
 .site-footer__bottom,
