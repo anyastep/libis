@@ -1,0 +1,45 @@
+[LIBIS logo]
+Baden-Württemberg Institute for Bioinformatics Infrastructure
+
+LIBIS provides bioinformatics software, hardware and cloud computing facilities for the scientific community.
+It integrates services of the German Network in Bioinformatics in Baden-Württemberg. [https://www.denbi.de/]
+[BW logo] [de.NBI logo]
+
+Modern bioinformatics tools for your research
+We develop resources for DNA, RNA and omics bioinformatics as well as for high-throughput data management and analysis.
+We also offer modeling tools, workflows and cloud computing services.
+Explore our program areas [link to Introducing six program areas at LIBIS]
+
+A sustainable infrastructure for life sciences and beyond
+We offer education and training to help end users learn and apply LIBIS tools and services.
+Learn about our courses [https://www.denbi.de/training]
+
+Scientific network in Baden-Württemberg
+Collaborative effort by universities and institutes across 4 cities.
+
+Our members
+[Uni Heidelberg logo] [Uni Freiburg logo] [Uni Konstanz logo] [Uni Tübingen logo]
+
+Our partners
+[DKFZ logo] [EMBL logo] [HITS logo]
+
+Introducing six program areas at LIBIS
+
+DNA Bioinformatics
+RNA Bioinformatics
+Proteome and Metabolome Bioinformatics
+Systems Bioinformatics
+Applied Bioinformatics and Bioinformatics Services
+Workflows and Cloud Services
+
+[LiBiS logo]
+Baden-Württemberg Institute for Bioinformatics Infrastructure
+
+Contact
+Prof. Dr. Ursula Kummer
+ursula.kummer @ bioquant.uni-heidelberg.de
++49 (0) 6221 54-51278
+
+Copyright © 2021 Heidelberg University
+Imprint [https://www.uni-heidelberg.de/en/imprint]
+Privacy Policy [https://www.uni-heidelberg.de/en/data-protection-declaration]
