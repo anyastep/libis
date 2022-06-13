@@ -65,3 +65,38 @@ body {
     padding: 0;
     margin: 0;
 }
+
+/* ---------- Custom Colors ----------- */
+
+:root {
+    --dark: 4, 58, 112;
+    --medium: 67, 120, 165;
+    --light: 214, 225, 243;
+    --orange: 249, 176, 35;
+    --text-opacity: 1;
+    --bg-opacity: 1;
+}
+.text-dark {
+    color: rgba(var(--dark), var(--text-opacity)) !important;
+}
+.bg-dark {
+    background-color: rgba(var(--dark), var(--bg-opacity)) !important;
+}
+.text-medium {
+    color: rgba(var(--medium), var(--text-opacity)) !important;
+}
+.bg-medium {
+    background-color: rgba(var(--medium), var(--bg-opacity)) !important;
+}
+.text-light {
+    color: rgba(var(--light), var(--text-opacity)) !important;
+}
+.bg-light {
+    background-color: rgba(var(--light), var(--bg-opacity)) !important;
+}
+.text-orange {
+    color: rgba(var(--orange), var(--text-opacity)) !important;
+}
+.bg-orange {
+    background-color: rgba(var(--orange), var(--bg-opacity)) !important;
+}
